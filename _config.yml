@@ -5,3 +5,10 @@ permalink:
   /404.html
 gems:
   - jekyll-seo-tag
+twitter:
+  username: aIrb4Ck
+image:
+  twitter: /img/twt.png
+  linkedin: /img/lkdn.png
+  height: 100
+  width: 100
