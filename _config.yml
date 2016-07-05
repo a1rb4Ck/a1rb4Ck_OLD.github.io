@@ -1,5 +1,7 @@
 name: a1rb4Ck's place
 markdown: kramdown
-permalink: /blog/:year/:month/:day/:title
+permalink:
+  /blog/:year/:month/:day/:title
+  /404.html
 gems:
   - jekyll-seo-tag
